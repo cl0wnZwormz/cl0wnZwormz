@@ -1,16 +1,14 @@
-## Hi there 👋
+  <h1 align="center"> welcome to my profile </h1>
+<div align="center">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/e9/5e/93/e95e932c-4067-2c1f-bcba-156e13f27a9c/U0RULU1TLVdXLUxpbF9VemlfVmVydF92MDctQURBTV9JRD0xNTAyNzA3MzgwLnBuZw.png/2048x2732ss.jpg" width="25%" align="right" />
 
-<!--
-**cl0wnZwormz/cl0wnZwormz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
+<pre>
+   💼 Frontend • Backend 
+   💻 JS • Batch • PY
+</pre>
+<br><br>
+    ![cl0wnZwormz's Stats](https://github-readme-stats.vercel.app/api?username=cl0wnZwormz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
